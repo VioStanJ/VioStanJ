@@ -50,7 +50,7 @@ Aside from development, I'm very interested in martial arts, including Kyokushin
 ### Let's Connect!
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to collaborations and new opportunities!
 
-- <a href="https://vsguerrier.me"><img src="https://www.vsguerrier.me/favicon.ico" alt="Personal Website" width="20px" height="20px"></a>    
+- <a href="https://vsguerrier.me"><img src="https://www.vsguerrier.me/favicon.ico" alt="Personal Website" width="20px" height="20px">VSGuerrier.me</a>    
 - <a href="mailto:viostanojgueriier@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="GMAIL" width="20px" height="20px"></a>
 - <a href="https://www.linkedin.com/in/vio-stanoj-guerrier/" target="__blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Personal Website" width="20px" height="20px"></a>
 
