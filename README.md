@@ -50,7 +50,9 @@ Aside from development, I'm very interested in martial arts, including Kyokushin
 ### Let's Connect!
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to collaborations and new opportunities!
 
-**VSGuerrier.Me:** <a href="https://vsguerrier.me"><img src="https://www.vsguerrier.me/favicon.ico" alt="Personal Website" width="20px" height="20px"></a>    -    **GMail:** <a href="mailto:viostanojgueriier@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="GMAIL" width="20px" height="20px"></a>    -    **LinkedIn:** <a href="https://www.linkedin.com/in/vio-stanoj-guerrier/" target="__blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Personal Website" width="20px" height="20px"></a>
+**VSGuerrier.Me:** <a href="https://vsguerrier.me"><img src="https://www.vsguerrier.me/favicon.ico" alt="Personal Website" width="20px" height="20px"></a>    
+**GMail:** <a href="mailto:viostanojgueriier@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="GMAIL" width="20px" height="20px"></a>
+**LinkedIn:** <a href="https://www.linkedin.com/in/vio-stanoj-guerrier/" target="__blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Personal Website" width="20px" height="20px"></a>
 
 ### Projects 🛠️
 I enjoy working on diverse projects, ranging from web development to Mobile App. Check out my repositories to see what I've been working on!
