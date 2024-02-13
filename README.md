@@ -11,8 +11,6 @@ Later, while working as a developer, I got quite interested in mobile developmen
 
 Aside from development, I'm very interested in martial arts, including Kyokushin Karate, which I practice (I'm a Blue Belt 💪🏾).
 
-Today I'm looking forward to discovering and creating even more with new technologies and collaborators !✨
-
 - 🔭 I’m currently working on My Blog
 - 🌱 I’m currently learning for a Certification AWS Solution Architect
 - 🤔 I’m looking for help with future project in A.I
@@ -43,3 +41,16 @@ Today I'm looking forward to discovering and creating even more with new technol
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="NGinx" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"/>
 <img align="left" alt="UML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"/>
+
+## Let's Connect!
+Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to collaborations and new opportunities!
+
+- **Personal Website:** [vsguerrier.me](https://vsguerrier.me)
+- **Email:** viostanojgueriier@gmail.com
+- **LinkedIn:** [Vio Stanoj Guerrier](https://www.linkedin.com/in/vio-stanoj-guerrier/)
+
+## Projects 🛠️
+I enjoy working on diverse projects, ranging from web development to Mobile App. Check out my repositories to see what I've been working on!
+
+## Get in Touch 📬
+Don't hesitate to connect with me and explore the world of technology together. Looking forward to hearing from you!
