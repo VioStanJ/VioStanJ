@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋,I'mVio Stanoj Guerrier
 
-My name is Vio Stanoj Guerrier, and I've been an information enthusiast since I was a kid! I really started coding 2 years before going to college. I started with Java, then switched to C, which I found more suitable as my first language. 
+I've been an information enthusiast since I was a kid! I really started coding 2 years before going to college. I started with Java, then switched to C, which I found more suitable as my first language. 
 I started with the famous OpenClassrooms MOOC and with "Le Livre du C premier langage" by Claude Delannoy. 
 I've always loved learning on my own, so I practically learned to code on my own, right from my first year at university, when I coded my first real little program 😁 (I lost the code 😔, but I found the executable 😊)! 
 
@@ -15,9 +15,10 @@ Today I'm looking forward to discovering and creating even more with new technol
 - 🔭 I’m currently working on My Blog
 - 🌱 I’m currently learning for a Certification AWS Solution Architect
 - 🤔 I’m looking for help with future project in A.I
+
+<!-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-<!-- 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
