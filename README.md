@@ -1,5 +1,6 @@
 ### Hi there 👋 !
 **`I'm Vio Stanoj Guerrier (Full Stack Developer)`**
+
 I've been an information enthusiast since I was a kid! I really started coding 2 years before going to college. I started with Java, then switched to C, which I found more suitable as my first language. 
 I started with the famous OpenClassrooms MOOC and with "Le Livre du C premier langage" by Claude Delannoy. 
 I've always loved learning on my own, so I practically learned to code on my own, right from my first year at university, when I coded my first real little program 😁 (I lost the code 😔, but I found the executable 😊)! 
