@@ -42,6 +42,8 @@ Aside from development, I'm very interested in martial arts, including Kyokushin
 <img align="left" alt="NGinx" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"/>
 <img align="left" alt="UML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"/>
 
+#
+
 ### Let's Connect!
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to collaborations and new opportunities!
 
